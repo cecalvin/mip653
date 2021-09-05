@@ -6,11 +6,11 @@ layout: home
 ---
 
 
-Fall 2020
-NJIT MIP 652   
-Wednesdays 6-8:50pm  
-Instructor: Dare Brawley  
-dare.a.brawley@njit.edu | @darebrawley  
+Fall 2021
+NJIT ARCH 667   
+Mondays 6-8:50pm  
+Instructor: Ellis Calvin  
+__________@njit.edu |   
 
 
 ## Course Description
